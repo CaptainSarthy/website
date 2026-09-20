@@ -4,7 +4,7 @@ A tiny meme website built with plain HTML, CSS, and JavaScript. No build step, n
 
 The memes here are original illustrations with captions laid over them, so there's nothing to worry about copyright-wise. If you add your own images, make sure you have the right to use them.
 
-## Run it locally
+## Run it locally 
 
 Open `index.html` in your browser. That's it.
 
