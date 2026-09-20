@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#d8f5d0"/>
+  <g stroke="#6b5a34" stroke-width="10" fill="none" stroke-linecap="round"><path d="M300 400V300q0-60 -60-70"/><path d="M300 400v-90q10-60 70-60"/><path d="M300 400v-40q-40-20-70 0"/></g>
+  <path d="M240 230q-40 8-48 40q34 6 48-40z" fill="#a89a4a"/>
+  <path d="M370 250q40 4 52 36q-36 6-52-36z" fill="#a89a4a"/>
+  <path d="M230 360q-30 0-46 26q30 10 46-26z" fill="#8c7a3a"/>
+  <path d="M225 400h150l-20 100h-110z" fill="#4a6cff"/>
+  <rect x="215" y="388" width="170" height="26" rx="8" fill="#3b57d6"/>
+  <path d="M265 445l16 10M335 445l-16 10" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M275 480q25-20 50 0" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <g transform="rotate(-25 480 250)"><rect x="430" y="210" width="110" height="80" rx="14" fill="#ffb35c"/><path d="M430 235h-40l-20-20" stroke="#ffb35c" stroke-width="12" fill="none" stroke-linecap="round"/><path d="M540 245h44" stroke="#ffb35c" stroke-width="14" stroke-linecap="round"/></g>
+  <g fill="#6ec6ff"><path d="M420 330q-8 16 0 24q8-8 0-24z"/><path d="M445 360q-8 16 0 24q8-8 0-24z"/><path d="M395 365q-8 16 0 24q8-8 0-24z"/></g>
+</svg>

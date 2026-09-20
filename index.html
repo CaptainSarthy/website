@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meme Dump</title>
+  <meta name="description" content="A small collection of original memes.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <h1>Meme Dump</h1>
+    <p>Original memes, made fresh. Hit the button if one got you.</p>
+  </header>
+
+  <nav id="filters" class="filters" aria-label="Filter memes by topic"></nav>
+
+  <main>
+    <ul id="grid" class="grid"></ul>
+    <p id="empty" class="empty" hidden>No memes in this topic yet. Pick another one above.</p>
+  </main>
+
+  <footer class="footer">
+    <p>Add your own: drop an image in <code>memes/</code> and add an entry to <code>memes.js</code>.</p>
+  </footer>
+
+  <script src="memes.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

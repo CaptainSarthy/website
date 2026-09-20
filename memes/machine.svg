@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#ffb35c"/>
+  <g fill="#ff4d2e"><path d="M0 600V480q30-70 60 0q30-90 70 0q35-100 75 0q30-80 70 0q35-110 80 0q30-70 65 0q35-90 75 0q30-60 60 0V600z"/></g>
+  <g fill="#ffd84a"><path d="M40 600v-60q20-40 40 0q20-50 45 0v60zM250 600v-70q22-50 45 0q22-40 40 0v70zM470 600v-60q20-45 40 0q18-30 40 0v60z"/></g>
+  <g transform="translate(300 270) scale(.85) translate(-300 -270)">
+  <circle cx="300" cy="270" r="120" fill="#7be0a5"/>
+  <rect x="215" y="240" width="170" height="52" rx="14" fill="#14141a"/>
+  <rect x="222" y="247" width="70" height="38" rx="8" fill="#3b3b4a"/><rect x="308" y="247" width="70" height="38" rx="8" fill="#3b3b4a"/>
+  <path d="M245 335q55 40 110 0" stroke="#14141a" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <circle cx="450" cy="330" r="36" fill="#7be0a5" stroke="#14141a" stroke-width="6"/>
+  <path d="M448 312v-30q0-10 10-10t10 10v22" stroke="#14141a" stroke-width="6" fill="#7be0a5" stroke-linejoin="round"/>
+  <rect x="190" y="360" width="220" height="130" rx="12" fill="#2b2b36"/>
+  <rect x="202" y="372" width="196" height="100" rx="6" fill="#0f0f16"/>
+  <path d="M262 425l26 26 50-52" stroke="#5dff8f" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 490h260l16 22H154z" fill="#4a4a5a"/>
+  </g>
+</svg>
